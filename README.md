@@ -6,7 +6,7 @@ ALON Repository for Karagathon Submission
 - Arduino Code for Fisher ID and Buoys
 
 ## For Django App
-1. Download the PHL_adm folder from this drive folder: https://drive.google.com/drive/folders/151tUSZPQDzj0C5yD0BrGdsiRkra9A9Nh?usp=sharing
+1. Download the PHL_adm folder (data from gadm.com) from this drive folder: https://drive.google.com/drive/folders/151tUSZPQDzj0C5yD0BrGdsiRkra9A9Nh?usp=sharing
 2. Place contents inside Alon Folder
 3. Launch a virtual environment (this guide will use pip for installing packages)
 4. Run <code>pip install -r requirements.txt</code> to install needed packages
